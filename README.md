@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<div id="header" align="center"><img src="https://i.ibb.co/9y3rRp6/Vector-illustration-in-cartoon-style-of-a-Girl-working-at-home-sitting-at-the-desk-with-blonde-short.jpg" alt="Vector-illustration-in-cartoon-style-of-a-Girl-working-at-home-sitting-at-the-desk-with-blonde-short" border="0" width="40%"></div>
+</br>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/sara-iozzelli-159054172/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+</div>
+
 <!--
 **saraiozzelli/saraiozzelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
